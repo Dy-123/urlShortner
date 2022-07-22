@@ -3,3 +3,4 @@ URL shortner is a web app which provides short aliases for redirection of long U
 
 Backend - Express      
 Frontend - React
+Database - Mongodb
